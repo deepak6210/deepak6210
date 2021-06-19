@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img width="50%" src="images/logo.jpg"  height="50%"/></a></p>
+<p align="center"><a href="#"><img width="70%" height="70%"  style="border-radius:50%" src="images/code.gif"  /></a></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Deepak</h1>
 <h4 align="center">I'm  a passionate self-taught Front End web developer and a freelance software engineer from India.
@@ -55,15 +55,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
    <p align="center">
 <img alt="Deepak Top Languages" width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak6210&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-<br/>
-<!-- 
-<img alt="Subham Raoniar's Activity Graph" 
-width="100%" height="auto"
-src="https://activity-graph.herokuapp.com/graph?username=deepak6210&theme=redical&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> -->
 
 <br/>
 
