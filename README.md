@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img width="70%" height="70%"  style="border-radius:50%" src="images/code.gif"  /></a></p>
+<p align="center"><a href="#"><img width="50%" height="50%"  style="border-radius:50%" src="images/logo.jpg"  /></a></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Deepak</h1>
 <h4 align="center">I'm  a passionate self-taught Front End web developer and a freelance software engineer from India.
