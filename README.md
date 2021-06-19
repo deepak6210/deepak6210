@@ -1,9 +1,12 @@
-<a href="#"><img width="50%"  display="block"
-  margin-left="auto"
-  margin-right="auto" src="images/logo.jpg" height="50%"/></a>
+<p align="center"><a href="#"><img width="50%" src="images/logo.jpg"  height="50%"/></a></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Deepak</h1>
-<h3 align="center">I'm a passionate Front End Developer from India.</h3>
+<h4 align="center">I'm  a passionate self-taught Front End web developer and a freelance software engineer from India.
+<br/>
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community. Feel free to write me anytime! We will work together!</h4>
+
+- 💼 Any freelance work? Do reach, [email](mailto:deepakjha6210@gmail.com) :)
+- 💬 Ask me about anything, I am happy to help;
 
 ## 🙋‍♂️ About Me
 
@@ -22,11 +25,11 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://code.visualstudio.com/docs" target="_blank"> <img width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> </a>
+    <a href="https://code.visualstudio.com/docs" target="_blank"> <img width="48px" height="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/sass/" target="_blank"> <img width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/> </a> 
+    <a href="https://www.w3schools.com/sass/" target="_blank"> <img width="48px" height="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
@@ -39,6 +42,31 @@
 <br/>
 <br/>
 
+<p align="center">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" width="100%" height="auto" alt="Deepak streak" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak6210&theme=chartreuse-dark&hide_border=true&stroke=0000&background=060A0CD0"/>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+  <p align="center">
+   <img alt="Deepak Github Stats" width="100%" height="auto" src="https://github-readme-stats.vercel.app/api?username=deepak6210&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+   </p>
+   <p align="center">
+<img alt="Deepak Top Languages" width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak6210&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</p>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<br/>
+<br/>
+<!-- 
+<img alt="Subham Raoniar's Activity Graph" 
+width="100%" height="auto"
+src="https://activity-graph.herokuapp.com/graph?username=deepak6210&theme=redical&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> -->
+
+<br/>
+
 ## Connect with me:
 
 <p align="left">
@@ -48,3 +76,8 @@
 <a href = "https://www.instagram.com/_er_.deepak/?utm_medium=copy_link"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
+
+## ❤ Views and Followers
+
+ <img src="https://komarev.com/ghpvc/?username=deepak6210">
+<img src="https://img.shields.io/github/followers/deepak6210?label=Followers&style=social" alt="GitHub Badge">
